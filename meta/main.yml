@@ -1,0 +1,7 @@
+---
+galaxy_info:
+  author: Jiří Stránský
+  description: Setup GSettings entries.
+  license: Apache
+
+dependencies: []
